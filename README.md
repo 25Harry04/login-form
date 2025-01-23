@@ -1,6 +1,3 @@
-Login-form
+<h1>Login Form Animation</h1>
 
-
-https://github.com/user-attachments/assets/35b96a0f-3428-4134-a7f7-5ac9351e6476
-
-
+https://github.com/anaslaghrissi/Login-Form/assets/108026572/9eb0a99a-a1cc-4b07-a374-b569064a4fe9
